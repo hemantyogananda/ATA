@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ATA",
+    "slug": "ATA",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
